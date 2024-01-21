@@ -1,0 +1,17 @@
+{
+  "adult": false,
+  "backdrop_path": "/path.jpg",
+  "id": 1,
+  "title": "Sample Movie",
+  "original_language": "en",
+  "original_title": "Sample Movie",
+  "overview": "Overview here",
+  "poster_path": "/path2.jpg",
+  "media_type": "movie",
+  "genre_ids": [1, 2, 3],
+  "popularity": 100.0,
+  "release_date": "2020-01-01",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 100
+}
